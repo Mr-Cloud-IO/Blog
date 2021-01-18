@@ -5,4 +5,5 @@ description: A blog about the Cloud and the best practice around it
 github_username: marcpicornell
 
 markdown: kramdown
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
+remote_theme: chrisrhymes/bulma-clean-theme
